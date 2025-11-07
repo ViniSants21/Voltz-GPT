@@ -103,15 +103,19 @@ Senha: 1234
 ## 🧑‍💻 Estrutura Recomendada
 
 ```
-voltz-gpt/
+VOLTZ GPT/
 │
-├── voltz_gpt.py
-├── bot_avatar.png
-├── README.md
-└── /__pycache__ (gerado automaticamente)
+├── Print 1.png
+├── Print 2.png
+├── Print 3.png
+├── Print 4.png
+├── voltzgpt.py 
+└── README.md
 ```
 
 ---
+
+
 
 ## 🧠 Exemplos de Temas que o Bot Domina
 
@@ -127,5 +131,7 @@ voltz-gpt/
 Projeto desenvolvido como atividade prática do **Curso Técnico de Desenvolvimento de Sistemas**
 Professores: *Luis Felipe Cardoso* e *Wesley Fioreze*
 Aluno: **Vinicius Queiroz e Davi Fabricio**
+
+
 
 
