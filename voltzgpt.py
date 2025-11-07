@@ -1,3 +1,4 @@
+# Vinicius Queiroz e Davi Fabricio
 import tkinter as tk
 from tkinter import ttk, messagebox
 import time
